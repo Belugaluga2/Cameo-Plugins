@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+    id="com.example.configurationitemstereowarningplugin"
+    name="Config Item Stereotype Warning"
+    version="1.0"
+    provider-name="Evan Cantwell"
+    class="com.example.configurationitemstereowarningplugin.ConfigurationItemStereoWarningPlugin">
+    
+    <requires>
+        <api version="1.0"/>
+    </requires>
+    
+    <runtime>
+        <library name="configurationitemstereowarningplugin.jar"/>
+    </runtime>
+    
+</plugin>
