@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+    id="CSVActivityPlugin"
+    name="CSV Activity Diagram Plugin"
+    version="1.0"
+    provider-name="Your Name"
+    class="com.example.csvactivityplugin.CSVActivityDiagramPlugin">
+    
+    <requires>
+        <api version="1.0"/>
+    </requires>
+    
+    <runtime>
+        <library name="CSVActivityPlugin.jar"/>
+    </runtime>
+    
+</plugin>
