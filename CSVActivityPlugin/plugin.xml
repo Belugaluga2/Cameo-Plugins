@@ -3,7 +3,7 @@
     id="CSVActivityPlugin"
     name="CSV Activity Diagram Plugin"
     version="1.0"
-    provider-name="Your Name"
+    provider-name="Evan Cantwell"
     class="com.example.csvactivityplugin.CSVActivityDiagramPlugin">
     
     <requires>
